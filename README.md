@@ -11,7 +11,7 @@
 - 🎓 After my studies in Solid State Physics, I change my field of preference to Data Science.
 - 📜 I acquired a certification from Coursera: "IBM Data Science Professional Certificate".
 - 👨‍💻 I’m currently looking for my first job as a data scientist.
-- 🎯 I am eager to aquire many more certifications in the near future, as well as learn more data science tools along the way.
+- 🎯 I am eager to acquire many more certifications in the near future, as well as learn more data science tools along the way.
 
 
 ### Languages and Tools:
