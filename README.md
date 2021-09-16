@@ -4,7 +4,7 @@
 [![Website](https://www.codewars.com/users/Kantarelis/badges/micro)](https://www.codewars.com/users/Kantarelis)
 
 
-## I'm an aspiring young data scientist
+## I'm an aspiring data scientist
 
 - 🔭 I was an ex-theoritical physicist, with a specialization in the field of Computational Solid State Physics.
 - 🎖️ I already finished my military obligations in my country (Greece).
