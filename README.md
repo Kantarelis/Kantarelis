@@ -6,7 +6,7 @@
 
 ## I'm an aspiring data scientist
 
-- 🔭 I was an ex-theoritical physicist, with a specialization in the field of Computational Solid State Physics.
+- 🔭 I was an ex-theoretical physicist, with a specialization in the field of Computational Solid State Physics.
 - 🎖️ I already finished my military obligations in my country (Greece).
 - 🎓 After my studies in Solid State Physics, I change my field of preference to Data Science.
 - 📜 I aquired a certification from Coursera: "IBM Data Science Professional Certificate".
