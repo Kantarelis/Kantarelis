@@ -9,7 +9,7 @@
 - 🔭 I was an ex-theoretical physicist, with a specialization in the field of Computational Solid State Physics.
 - 🎖️ I already finished my military obligations in my country (Greece).
 - 🎓 After my studies in Solid State Physics, I change my field of preference to Data Science.
-- 📜 I aquired a certification from Coursera: "IBM Data Science Professional Certificate".
+- 📜 I acquired a certification from Coursera: "IBM Data Science Professional Certificate".
 - 👨‍💻 I’m currently looking for my first job as a data scientist.
 - 🎯 I am eager to aquire many more certifications in the near future, as well as learn more data science tools along the way.
 
