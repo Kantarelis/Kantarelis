@@ -4,14 +4,9 @@
 [![Website](https://www.codewars.com/users/Kantarelis/badges/micro)](https://www.codewars.com/users/Kantarelis)
 
 
-## I'm an aspiring data scientist
+## I'm a data engineer
 
-- 🔭 I was an ex-theoretical physicist, with a specialization in the field of Computational Solid State Physics.
-- 🎖️ I already finished my military obligations in my country (Greece).
-- 🎓 After my studies in Solid State Physics, I change my field of preference to Data Science.
-- 📜 I acquired a certification from Coursera: "IBM Data Science Professional Certificate".
-- 👨‍💻 I’m currently looking for my first job as a data scientist.
-- 🎯 I am eager to acquire many more certifications in the near future, as well as learn more data science tools along the way.
+- 🔭 I have a strong preference in scientific projects.
 
 
 ### Languages and Tools:
