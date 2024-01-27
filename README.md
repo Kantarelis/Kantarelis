@@ -4,21 +4,22 @@
 [![Website](https://www.codewars.com/users/Kantarelis/badges/micro)](https://www.codewars.com/users/Kantarelis)
 
 
-## I'm a data engineer
+## Data engineer
 
-- 🔭 I have a strong preference in scientific projects.
+- Strong background in mathematics, programming, physics and problem solving - I have a strong preference in scientific projects 🔭 .
+- DevOps CI/CD: Automated unit & integration tests, ETL, application distribution.
+- Data Warehousing & Architecture.
+- Implementation of dashboards & small applications from backend to frontend.
+- Implementation of specialized scientific algorithms.
 
+Feel free to check my
+[CV](https://drive.google.com/file/d/1FKV9FHFq2mVumpMuUKm8tmeL6xrKyjZr/view?usp=drive_link).
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzLPz1h00MkCsXnWyxPFVjHNs0QG8HDxxEnk12jUyYjQyADIQCyyB0pP8pGCoB0BYy0nE&usqp=CAU" />
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bash.png" />
-
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
