@@ -4,7 +4,7 @@
 [![Website](https://www.codewars.com/users/Kantarelis/badges/micro)](https://www.codewars.com/users/Kantarelis)
 
 
-## Data engineer
+## Data Engineer
 
 - Strong background in mathematics, programming, physics and problem solving - I have a strong preference in scientific projects 🔭 .
 - DevOps CI/CD: Automated unit & integration tests, ETL, application distribution.
